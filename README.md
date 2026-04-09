@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio repository! I built this website to showcase my skills, projects, and professional journey as a passionate **Java Full Stack Trainee**.
 
-## 🌍 Check it out live!
-
-*(Add link to the live deployment here if applicable)*
 
 ## 🚀 About This Project
 
