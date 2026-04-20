@@ -19,9 +19,6 @@ It's designed to be clean, modern, and easily navigable on both desktop and mobi
 *   **My Skills:** The tech stack I work with, including Java, SQL, HTML, CSS, JavaScript, and various developer tools.
 *   **Experience:** Details about my current training and professional growth.
 *   **My Projects:** Highlights of some cool things I've built, like:
-    *   🚗 Driver Drowsiness Alert System (IoT & Computer Vision)
-    *   🔗 Vehicle Maintenance Records in Blockchain
-    *   📜 Decentralized Certificate Issuance
 *   **Certifications:** Official recognition I've earned from Google Cloud and AWS.
 
 ## 📫 Let's Connect!
